@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/10/2020 10:34:42 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_RITUAL_HEART">
+			<Text>Heart of the Ritual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_LIBATIONS_SHORT">
+			<Text>Libations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RITUAL_HEART_HELP">
+			<Text>The Heart of the cascading ritual.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKAPANA">
+			<Text>Akapana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RITUAL_HEART_STRATEGY">
+			<Text>Use the Ritual to grow your capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RITUAL_HEART_PEDIA">
+			<Text>The lost glory of a ancient and forgotten emire lives within these runes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKAPANA_PEDIA">
+			<Text>On the shores of Lake Titicaca are the remains of one of the most powerful and influential cultures to appear in the Andean mountains: Tiwanaku. Long before the Incan Empire, the priests and nobles of Tiwanaku cultivated a hegemony over modern day Bolivia and northern Chile, based solely on cultural and religious influence. Within Tiwanaku was a sprawling complex of temples and courtyards for various rituals and rites, but the greatest of them all was the Akapana, a gargantuan manmade stepped pyramid in the shape of a modified Andean Cross.[NEWLINE][NEWLINE]The Akapana's resemblance to the nearby mountains was not an accident, just as the mountains surrounding Lake Titicaca feed the great lake with their spring water, the Akapana is believed to have collected rainwater on its flat upper surface and funneled it into a depression at the centre. The centre of the pyramid contained a hole, filled with loose stones, which permitted water to drain out of the Akapana's center, and down into a moat surrounding the temple complex. Thus, the Akapana would have been seen as a holy mountain in its own right, blessing the city with its water. The act of pouring and collecting water and sacred drinks was central to many Andean religions, which presented gifts to the earth by pouring out drinks or burying meals and trinkets.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_POLICY_AKAPANA_DUMMY">
+			<Text>Akapana Dummy Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_D_FOR_CASCADING_RITUAL">
+			<Text>Akapana Stacks Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_D_FOR_AKAPANA_REFORM">
+			<Text>Akapana Reformation Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CASCADING_RITUAL">
+			<Text>Ritual of Cascading Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CASCADING_RITUAL_TEXT">
+			<Text>The Challa rituals are a central part of worship to Pachamama, the earth deity of many Pre-Columbian Andean cultures. Each day, priests would prepare a cup of chicha -- a kind of beer made from corn -- and spill a small amount as an offering to Pachamama before drinking the rest. We do not know for sure where the ritual originated, but the city of Tiwanaku contained one of the oldest and grandest temple complexes where these ceremonies took place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CASCADING_RITUAL_STRATEGY">
+			<Text>If you have adopted the Libations founder belief, use your faith to perform Challa rituals which make your Akapana wonder stronger. Can perform a [COLOR_NEGATIVE_TEXT]Max of 25[ENDCOLOR] Challa Rituals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CASCADING_RITUAL_HELP">
+			<Text>Spend [ICON_PEACE] Faith to perform a Challa Ritual, adding +1 of All Yields to your [COLOR_POSITIVE_TEXT]Akapana National Wonder[ENDCOLOR].[NEWLINE][NEWLINE]Requires adopting the [COLOR_POSITIVE_TEXT]Libations[ENDCOLOR] Founder Belief and constructing the [COLOR_POSITIVE_TEXT]Akapana[ENDCOLOR] in this City. Can perform a [COLOR_NEGATIVE_TEXT]Max of 25[ENDCOLOR] Challa Rituals.</Text>
+		</Row>
+	</Language_en_US> 
+</GameData>
